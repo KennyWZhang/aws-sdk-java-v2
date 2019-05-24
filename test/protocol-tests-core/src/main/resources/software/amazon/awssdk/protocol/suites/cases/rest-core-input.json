@@ -501,7 +501,7 @@
       },
       "then": {
 	  "serializedAs": {
-	      "uri": "/2016-03-11/operationWithGreedyLabel/pathParamValue/foo/bar/baz"
+	      "uri": "/2016-03-11/operationWithGreedyLabel/pathParamValue//foo/bar/baz"
 	  }
       }
   },
